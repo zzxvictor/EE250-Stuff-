@@ -1,3 +1,5 @@
+
+Use the new_web_crawler.py!!!
 this project aims to collect information from a specific web site and do data crawling 
 the pipeline configuratio i have in mind right now is as follows:
 
